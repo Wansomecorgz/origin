@@ -1,0 +1,7 @@
+# Католог tmp будет игнорироваться
+tmp/
+# Будут игнорироваться файлы, заканчивающиеся на _old, _backup, а также файлы Thumbs.db и .DS_Store
+*_old
+*_backup
+Thumbs.db
+*.DS_Store
